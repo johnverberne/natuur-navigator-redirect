@@ -10,7 +10,6 @@ Pad en querystring blijven behouden, bijvoorbeeld:
 ## Starten
 
 ```sh
-cd redirect
 npm install
 npm start
 ```
